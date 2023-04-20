@@ -18,3 +18,9 @@ local installation guide
 - open another terminal then run "npm run dev"
 
 - open localhost port 8000 on your browser to access the website
+
+short brief
+
+This system is made with Laravel for the backend, Vue for the frontend and uses the MySQL database.
+I used inertia for drive the frontend from backend.
+for the UI, I used tailwind(css), flowbite(ui library), and font-awesome(icon).
